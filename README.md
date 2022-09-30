@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artuchka
 - 👀 I’m interested in succeeding on Front-End Art
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Pug, Web Components(Custom Elements), React, Functional CSS (TailwindCss)
 - 📫 How to reach me tg: @Artuchka
 
 my stack:
