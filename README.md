@@ -27,7 +27,7 @@ I've done big projects using:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-![[My mind map](https://miro.com/app/board/uXjVPaOVjo4=/?share_link_id=456633706008)
+[My mind map](https://miro.com/app/board/uXjVPaOVjo4=/?share_link_id=456633706008)
 
 
 <!---
