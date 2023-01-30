@@ -1,9 +1,8 @@
+[👀My portofio👀](https://google.com)
 
 
 
-
-
-I've done big projects using:
+🧰I've done big projects using🧰:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +26,7 @@ I've done big projects using:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-[My mind map](https://miro.com/app/board/uXjVPaOVjo4=/?share_link_id=456633706008)
+🧠[My mind map](https://miro.com/app/board/uXjVPaOVjo4=/?share_link_id=456633706008)🧠
 
 
 <!---
