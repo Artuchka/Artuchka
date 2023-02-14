@@ -1,4 +1,4 @@
-[👀My portofio👀]([https://google.com](https://artuchka-portfolio.vercel.app/resume))
+[👀My portofio👀](https://artuchka-portfolio.vercel.app/)
 
 
 
