@@ -35,7 +35,7 @@ and much more...
 
 <div align="center">
   
-  <a target="_blank" href="[https://artuchka-portfolio.vercel.app/](https://miro.com/app/board/uXjVPaOVjo4=/?share_link_id=456633706008)">
+  <a target="_blank" href="https://miro.com/app/board/uXjVPaOVjo4=/?share_link_id=456633706008">
     <img width="300" alt="GitHub Badges" src="https://img.shields.io/badge/Mind-Map-orange?style=for-the-badge" />
   </a>
   
