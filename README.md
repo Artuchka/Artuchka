@@ -1,12 +1,3 @@
-<div align="center">
-  <a target="_blank" href="https://artuchka-portfolio.vercel.app/">
-    <img width="300" alt="GitHub Badges" src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge" />
-  </a>
-</div>
-
-
-
-
 🧰I've done big projects using🧰:
 
 Frontend:
@@ -66,7 +57,7 @@ and much more...
 <div align="center">
   
   <a target="_blank" href="https://github.com/Artuchka/social-network-backend">
-    <img width="300" alt="GitHub Badges" src="https://img.shields.io/badge/Currently_Working_ON-blue?style=for-the-badge" />
+    <img width="300" alt="GitHub Badges" src="https://img.shields.io/badge/Recent_Backend-blue?style=for-the-badge" />
   </a>
   
 </div>
