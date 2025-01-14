@@ -63,26 +63,6 @@ and much more...
 </div>
 
 
-<div align="center">
-  
-  <a target="_blank" href="https://github.com/Artuchka/social-network-backend">
-    <img width="300" alt="GitHub Badges" src="https://img.shields.io/badge/Recent_Backend-blue?style=for-the-badge" />
-  </a>
-  
-</div>
-
-
-<div align="center">
-  
-  <a target="_blank" href="https://github.com/Artuchka/ozon-front">
-    <img width="300" alt="GitHub Badges" src="https://img.shields.io/badge/last_project-lightgray?style=for-the-badge" />
-  </a>
-  
-</div>
-
-
-
-
 <!---
 Artuchka/Artuchka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
